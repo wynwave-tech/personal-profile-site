@@ -6,6 +6,10 @@ The project provides a simple way to create a visually focused personal page fea
 
 It can be adapted for personal profiles, introductions, portfolio-style pages, creator pages, biography pages, or other projects centered around an individual.
 
+## Preview
+
+![Personal Profile Site Preview](screenshots/personal-profile-preview.png)
+
 ## Features
 
 - Circular main profile photo
