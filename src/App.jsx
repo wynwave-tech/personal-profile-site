@@ -130,7 +130,7 @@ const sections = [
 // etc.
 // ==========================================================
 
-const PHOTO_COUNT = 5;
+const PHOTO_COUNT = 2;
 
 const photos = Array.from({ length: PHOTO_COUNT }, (_, index) => ({
   src: `/photos/pc/photo${index + 1}.png`,
