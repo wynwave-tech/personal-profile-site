@@ -313,4 +313,8 @@ The existing components can also be modified or replaced without changing the ba
 
 ## License
 
-This project is provided as an example personal profile website. Add the license of your choice before redistributing or publishing the project for broader use.
+This project is licensed under the MIT License.
+
+Copyright (c) 2026 WynWave Tech LLC.
+
+See the [LICENSE](LICENSE) file for the full license text.
